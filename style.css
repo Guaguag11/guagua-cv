@@ -1,0 +1,160 @@
+body{
+    font-family: 'Istok Web', sans-serif;
+    margin: 0 auto;
+    background-image: url(images/fondocv.jpg);
+    background-size: cover;
+    padding: 80px 0;
+}
+
+.night__mode-body{
+    backdrop-filter: grayscale(80%);
+}
+
+.night__mode-content{
+    background:#2a2c2f !important;
+    color: rgb(195, 185, 185) !important;
+    
+}
+
+.container{
+    max-width: 1280px;
+    width: 100%;
+    background-color: #807769;
+    color: black;
+    background-image: url(images/fondoo.jpg);
+    background-size: cover;
+    height: auto;
+    margin: 0 auto;
+    box-shadow: 6px 7px 10px 0px rgba(0,0,0,0.55);
+    -webkit-box-shadow: 6px 7px 10px 0px rgba(0,0,0,0.55);
+    -moz-box-shadow: 6px 7px 10px 0px rgba(0,0,0,0.55);
+}
+
+.container__cv{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: fit-content;
+}
+
+.header__greeting{
+    font-size: 120px;
+    position: absolute;
+    rotate: -90deg;
+    left: -277px;
+    top: 172px;
+}
+
+.header{
+    position: relative;
+    width: 1000px;
+} 
+
+
+.header__title{
+    position: absolute;
+    right: 38px;
+    font-size: 60px;
+    top: -7px;
+    font-family: 'Sometype Mono', monospace;
+}
+    
+
+.header__contact{
+    width: 400px;
+    position: absolute;
+    right: 48px;
+    top: 201px;
+    font-size: 25px;
+    line-height: 50px;
+}
+
+
+.header__contact-link{
+    text-decoration: none;
+    color: currentcolor;
+}
+
+.header__image{
+    width: 433px;
+    height: 564px;
+    object-fit: cover;
+}
+
+.header__about{
+    width: 400px;
+    font-size: 23px;
+    font-style: italic;
+    position: absolute;
+    right: 48px;
+    bottom: -8px;
+}
+
+
+.content{
+    display: grid;
+    width: 1000px;
+    grid-template-columns: 45% 55%;
+    margin-top: 41px;
+}
+
+.box{
+    width: 438px;
+}
+
+.box__right{
+    width: 481px;
+    padding-left: 74px;
+}
+
+.box__content{
+    margin-bottom: 77px;
+    margin-top: 0;
+}
+
+.box__content-span{
+    font-style: italic;
+}
+
+.box__content-title{
+    list-style: none;
+    font-size: x-large;
+    margin-top: 0;
+    font-weight: bold;
+}
+
+.box__content-subtitle{
+    font-size: 20px;
+    margin-bottom: 0;
+    margin-top: 51px;
+}
+
+.box__content-paragraph{
+    padding-left: 10px;
+    font-size: 20px;
+    line-height: 35px;
+    margin-top: 0;
+}
+
+.box__content-paragraph-list{
+    line-height: 40px;
+    margin: 0;
+    font-weight: normal;
+}
+
+.box__content-paragraph-span{
+    font-size: 21px;
+    line-height: 60px;
+}
+
+footer{
+    font-size: 20px;
+    text-align: center;
+    padding-bottom: 11px;
+
+}
+
+span{
+    font-weight: bolder;
+}
