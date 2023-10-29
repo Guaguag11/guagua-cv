@@ -10,5 +10,9 @@
 }
 
 @media screen and (min-width: 320px) and (max-width:600px){
-
+.header__title{
+    font-size: 30px;
+    right: 380px;
+    top: -17px;
+}
 }

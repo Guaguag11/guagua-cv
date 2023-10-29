@@ -8,5 +8,8 @@
 }
 
 @media screen and (min-width: 320px) and (max-width:600px){
-
+.box__content-paragraph-list{
+    font-size: 30px;
+    line-height: 50px;
+}
 }

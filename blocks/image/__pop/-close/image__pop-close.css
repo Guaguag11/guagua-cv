@@ -12,5 +12,9 @@
     }
     
     @media screen and (min-width: 320px) and (max-width:600px){
-    
+    .image__pop-close{
+    bottom: 362px;
+    left: 376px;
+    font-size: 35px;
+    }
     }

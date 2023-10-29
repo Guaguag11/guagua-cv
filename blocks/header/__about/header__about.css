@@ -11,5 +11,11 @@
 }
 
 @media screen and (min-width: 320px) and (max-width:600px){
-
+.header__about{
+    top: 581px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 30px;
+}
 }

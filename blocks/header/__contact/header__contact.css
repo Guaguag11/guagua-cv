@@ -12,5 +12,12 @@
 }
 
 @media screen and (min-width: 320px) and (max-width:600px){
-
+.header__contact{
+    top: 718px;
+    display: flex;
+    flex-direction: column;
+    font-size: 28px;
+    text-align: center;
+    list-style: none;
+}
 }

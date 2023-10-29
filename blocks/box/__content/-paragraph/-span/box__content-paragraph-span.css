@@ -7,5 +7,9 @@
 }
 
 @media screen and (min-width: 320px) and (max-width:600px){
-
+.box__content-paragraph-span{
+    font-size: 30px;
+    line-height: 80px;
+    font-style: italic;
+}
 }
