@@ -1,5 +1,4 @@
 footer{
-    font-size: 20px;
     text-align: center;
     padding-bottom: 11px;
 }
@@ -8,7 +7,4 @@ footer{
 }
 
 @media screen and (min-width: 320px) and (max-width:600px){
-.footer{
-    font-size: xx-large;
-}
 }
