@@ -1,0 +1,16 @@
+.header__contact{
+    width: 400px;
+    position: absolute;
+    right: 48px;
+    top: 201px;
+    font-size: 25px;
+    line-height: 50px;
+}
+
+
+@media screen and (min-width: 600px) and (max-width:900px){
+}
+
+@media screen and (min-width: 320px) and (max-width:600px){
+
+}

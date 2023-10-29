@@ -1,0 +1,13 @@
+.content{
+    display: grid;
+    width: 1000px;
+    grid-template-columns: 45% 55%;
+    margin-top: 41px;
+}
+
+@media screen and (min-width: 600px) and (max-width:900px){
+}
+
+@media screen and (min-width: 320px) and (max-width:600px){
+
+}

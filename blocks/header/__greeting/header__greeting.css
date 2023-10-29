@@ -1,0 +1,14 @@
+.header__greeting{
+    font-size: 120px;
+    position: absolute;
+    rotate: -90deg;
+    left: -277px;
+    top: 172px;
+}
+
+@media screen and (min-width: 600px) and (max-width:900px){
+}
+
+@media screen and (min-width: 320px) and (max-width:600px){
+
+}

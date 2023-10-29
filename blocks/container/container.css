@@ -1,0 +1,21 @@
+.container{
+    max-width: 1280px;
+    width: 100%;
+    background-color: #807769;
+    color: black;
+    background-image: url(/images/fondoo.jpg);
+    background-size: cover;
+    height: auto;
+    margin: 0 auto;
+    box-shadow: 6px 7px 10px 0px rgba(0,0,0,0.55);
+    -webkit-box-shadow: 6px 7px 10px 0px rgba(0,0,0,0.55);
+    -moz-box-shadow: 6px 7px 10px 0px rgba(0,0,0,0.55);
+    transition: all 0.4s;
+}
+
+@media screen and (min-width: 600px) and (max-width:900px){
+}
+
+@media screen and (min-width: 320px) and (max-width:600px){
+
+}

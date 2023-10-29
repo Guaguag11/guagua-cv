@@ -1,0 +1,14 @@
+.box__content-title{
+    list-style: none;
+    font-size: x-large;
+    margin-top: 0;
+    font-weight: bold;
+}
+
+
+@media screen and (min-width: 600px) and (max-width:900px){
+}
+
+@media screen and (min-width: 320px) and (max-width:600px){
+
+}

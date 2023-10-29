@@ -1,0 +1,16 @@
+.image__pop-close{
+    position: absolute;
+    right: -70px;
+    top: -190px;
+    color: currentColor;
+    background: none;
+    font-size: 50px;
+    color: rgb(151, 151, 136);
+    }
+
+    @media screen and (min-width: 600px) and (max-width:900px){
+    }
+    
+    @media screen and (min-width: 320px) and (max-width:600px){
+    
+    }

@@ -10,12 +10,15 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.css"
     />
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css"/>
+    <link rel="stylesheet" href="/pages/index.css">
 </head>
 <body>
-    <div class="container">
+    <div class="container" data-aos="fade-down" data-aos-duration="900">
     <div class="container__cv">
     <header class="header">
+        <button class="header__button header__button-night"><i class="fa fa-star"></i></button>
+        <button class="header__button header__button-day"><i class="fa fa-bolt"></i></button>
         <h2 class="header__greeting">HELLO,</h2>
         <h1 class="header__title">Diana Laura<br>Garza Guzmán</h1>
         <img class="header__image" src="./images/IMG_3495.jpg" 
@@ -30,6 +33,12 @@
             <li>Front End developer junior.</li>
             <li>Fashion Designer.</li>
         </ul>
+        <div class="image">
+            <section class="image__pop">
+                <button class="header__button image__pop-close" type="button"><i class="fa fa-times fa-lg"></i></button>
+                <img src="images/IMG_3495.jpg" class="image__pop-up" alt="imagen agrandada">
+            </section>
+        </div>
     </header>
     <div class="content">
         <div class="box">
@@ -103,5 +112,9 @@
     </footer>
     </div>
     <script src="index.js"></script>
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+    <script>
+    AOS.init();
+    </script>
 </body>
 </html>

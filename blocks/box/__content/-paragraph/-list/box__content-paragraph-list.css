@@ -1,0 +1,12 @@
+.box__content-paragraph-list{
+    line-height: 40px;
+    margin: 0;
+    font-weight: normal;
+}
+
+@media screen and (min-width: 600px) and (max-width:900px){
+}
+
+@media screen and (min-width: 320px) and (max-width:600px){
+
+}
