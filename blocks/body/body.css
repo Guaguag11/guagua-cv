@@ -8,10 +8,10 @@ transition: all 0.4s;
 }
 
 
-
 @media screen and (min-width: 600px) and (max-width:900px){
 body{
-width: 818px;
+    width: 818px;
+    margin-left: 10px;
 }
 }
 

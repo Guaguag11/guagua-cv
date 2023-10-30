@@ -1,7 +1,9 @@
 .night__mode-body{
     backdrop-filter: grayscale(80%);
     transition: all 0.4s;
+    width: 100%;
 }
+
 
 @media screen and (min-width: 600px) and (max-width:900px){
 }
