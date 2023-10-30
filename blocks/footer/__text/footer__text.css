@@ -3,8 +3,8 @@
 }
 
 @media screen and (min-width: 600px) and (max-width:900px){
-    .footer__text{
-        font-size: x-large;
+.footer__text{
+    font-size: x-large;
     }
 }
 

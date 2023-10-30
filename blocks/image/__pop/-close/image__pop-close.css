@@ -8,18 +8,17 @@
     color: rgb(151, 151, 136);
     }
 
-    @media screen and (min-width: 600px) and (max-width:900px){
-        .image__pop-close{
-        right: 67px;
-        top: -103px;
-        font-size: xx-large;
-        }
-    }
+@media screen and (min-width: 600px) and (max-width:900px){
+.image__pop-close{
+    right: 67px;
+    top: -103px;
+    font-size: xx-large;
+}}
     
-    @media screen and (min-width: 320px) and (max-width:600px){
+@media screen and (min-width: 320px) and (max-width:600px){
     .image__pop-close{
     bottom: 362px;
     left: 376px;
     font-size: 35px;
-    }
-    }
+}
+}

@@ -1,18 +1,18 @@
 .box__right{
-    width: 481px;
-    padding-left: 74px;
+width: 481px;
+padding-left: 74px;
 }
 
 @media screen and (min-width: 600px) and (max-width:900px){
-    .box__right{
-        width: 336px;
-    padding-left: 74px;
-    }
+.box__right{
+width: 336px;
+padding-left: 74px;
+}
 }
 
 @media screen and (min-width: 320px) and (max-width:600px){
 .box__right{
-    width: 481px;
-    padding-left: 63px;
+width: 481px;
+padding-left: 63px;
 }
 }

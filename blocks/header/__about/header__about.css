@@ -8,8 +8,8 @@
 }
 
 @media screen and (min-width: 600px) and (max-width:900px){
-    .header__about{
-        right: -19px;
+.header__about{
+    right: -19px;
     bottom: -20px;
     }
 }
