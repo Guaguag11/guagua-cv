@@ -8,6 +8,10 @@
 }
 
 @media screen and (min-width: 600px) and (max-width:900px){
+    .header__about{
+        right: -19px;
+    bottom: -20px;
+    }
 }
 
 @media screen and (min-width: 320px) and (max-width:600px){

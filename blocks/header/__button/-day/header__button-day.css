@@ -1,11 +1,15 @@
 .header__button-day{
     display: none;
-    color: white;
+    color:beige;
     background: none;
     right: -79px;
 }
 
 @media screen and (min-width: 600px) and (max-width:900px){
+    .header__button-day{
+        right: 12px;
+        top: 12px;
+    }
 }
 
 @media screen and (min-width: 320px) and (max-width:600px){

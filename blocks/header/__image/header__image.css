@@ -5,8 +5,13 @@
 }
 
 @media screen and (min-width: 600px) and (max-width:900px){
-}
 
+.header__image{
+    width: 353px;
+    height: 473px;
+    margin-left: 104px;
+}
+}
 @media screen and (min-width: 320px) and (max-width:600px){
 .header__image{
     margin-left: 85px;
